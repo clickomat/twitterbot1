@@ -1,0 +1,27 @@
+{
+  "name": "twitterbot1",
+  "version": "1.0.0",
+  "description": "stream tweets by keyworn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clickomat/twitterbot1.git"
+  },
+  "keywords": [
+    "twitter",
+    "stream"
+  ],
+  "author": "Clickomat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clickomat/twitterbot1/issues"
+  },
+  "homepage": "https://github.com/clickomat/twitterbot1#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "twit": "^2.2.11"
+  }
+}
